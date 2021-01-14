@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://jaywcjlove.github.io/linux-command">
-    <img src="./template/img/banner.svg?sanitize=true">
-  </a>
-  <h1>Linux Command</h1>
-</p>
+## Linux Command
 
 [![](https://jaywcjlove.github.io/sb/ico/linux.svg)](https://jaywcjlove.github.io/linux-command/) [![](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175) [![](https://jaywcjlove.github.io/sb/ico/npm.svg)](https://www.npmjs.com/package/linux-command)
 
@@ -17,11 +12,11 @@
 
 扫描二维码移动端预览搜索，也可通过二维码下面链接地址打开使用，下面网站是通过 Github Action 自动更新。
 
-[![Linux 命令大全](./assets/qr.png)](https://jaywcjlove.github.io/linux-command/)
+[![Linux 命令大全](./images/qr.png)](https://jaywcjlove.github.io/linux-command/)
 
 预览搜索：**https://git.io/linux**
 
-[![Linux 命令大全](./assets/Linux.gif)](https://jaywcjlove.github.io/linux-command/)
+[![Linux 命令大全](./images/Linux.gif)](https://jaywcjlove.github.io/linux-command/)
 
 #### Chrome 插件
 
@@ -29,13 +24,13 @@
 
 [![Chrome Web Store 下载](http://jaywcjlove.github.io/sb/download/chrome-web-store.svg)](https://chrome.google.com/webstore/detail/oscnews/iheapfheanfjcemgneblljhaebonakbg)
 
-[![Chrome Web Store 下载](./assets/chrome-extensions.gif)](https://github.com/jaywcjlove/oscnews)
+[![Chrome Web Store 下载](./images/chrome-extensions.gif)](https://github.com/jaywcjlove/oscnews)
 
 #### Alfred 版本
 
 [Alfred 版本下载](https://github.com/jaywcjlove/linux-command/releases)， 下图是界面效果。 
 
-[![Linux 命令大全](./assets/alfred.png)](https://github.com/jaywcjlove/linux-command/releases)
+[![Linux 命令大全](./images/alfred.png)](https://github.com/jaywcjlove/linux-command/releases)
 
 #### Dash 版本
 
@@ -232,10 +227,3 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 - [Game Drift Linux](http://gamedrift.org/) [下载地址](http://gamedrift.org/Download.html)
 - [Solus](https://solus-project.com) [下载地址](https://solus-project.com/download/)
 - [Manjaro Gaming Edition (mGAMe)](https://sourceforge.net/projects/mgame/) [下载地址](https://sourceforge.net/projects/mgame/)
-
-
-## Team
-
-[![小弟调调™](https://github.com/jaywcjlove.png?size=100)](https://github.com/jaywcjlove) | [![ZhuangZhu-74](https://github.com/ZhuangZhu-74.png?size=100)](https://github.com/ZhuangZhu-74) | [![Huck Huang](https://github.com/huckhuang.png?size=100)](https://github.com/huckhuang)
----|---|---
-[小弟调调™](http://wangchujiang.com) | [ZhuangZhu-74](https://github.com/ZhuangZhu-74) | [Huck Huang](https://github.com/huckhuang)
