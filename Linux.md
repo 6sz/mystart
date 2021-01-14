@@ -1,4 +1,4 @@
-## Linux Command
+# Linux Command
 
 [![](https://jaywcjlove.github.io/sb/ico/linux.svg)](https://jaywcjlove.github.io/linux-command/) 
 
